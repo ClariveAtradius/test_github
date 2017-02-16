@@ -25,5 +25,15 @@
         </configuration>
       </plugin>
     </plugins>
+    <plugin>
+      <groupId>org.apache.tomcat.maven</groupId>
+      <artifactId>tomcat7-maven-plugin</artifactId>
+      <version>2.2</version>
+      <configuration>
+        <url>http://atradius-tomcat.clarive.net/manager/text</url>
+        <server>TomcatServer</server>
+        <path>/BankingWeb</path>
+      </configuration>
+    </plugin>
   </build>
 </project>
