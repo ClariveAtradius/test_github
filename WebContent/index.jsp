@@ -9,7 +9,7 @@
 </head>
 <body>
 <img src="images/logo.png" alt="Acmebank Inc."/>
-<H2>-AAAAAA/Atradius</H2>
+<H2>AAAAAA/Atradius</H2>
 <form method="post" name="login">
 	<fieldset>
 		<p class="grouptop">
