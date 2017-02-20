@@ -4,12 +4,12 @@
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>--- Atradius</title>
+  <title>Atradius</title>
   <link rel="icon" type="image/png" href="images/favicon.ico">
 </head>
 <body>
 <img src="images/logo.png" alt="Acmebank Inc."/>
-<H2>Atradius</H2>
+<H2>Atradius el ultimo</H2>
 <form method="post" name="login">
 	<fieldset>
 		<p class="grouptop">
