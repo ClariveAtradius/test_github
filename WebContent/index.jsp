@@ -8,7 +8,7 @@
   <link rel="icon" type="image/png" href="images/favicon.ico">
 </head>
 <body>
-<H1>  last Atradius con nuevo tomcat con mucho trapi pero funcionando!!!.....o no...venga si</H1>
+<H1> last Atradius con nuevo tomcat con mucho trapi pero funcionando!!!.....o no...venga si</H1>
 <img src="images/logo.png" alt="Acmebank Inc."/>
 <form method="post" name="login">
 	<fieldset>
