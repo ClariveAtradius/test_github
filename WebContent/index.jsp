@@ -39,7 +39,7 @@
 </form>
 <p>Deployed by: ${job_name}</p> 
 <p>Environment: ${bl}</p>
-<p>Empowered by Clarive 6.6.3 on 09/03/2017 at 15:35</p>
+<p>Empowered by Clarive 6.6.3 on 09/03/2017 at 16:00</p>
 
 </body>
 </html>
